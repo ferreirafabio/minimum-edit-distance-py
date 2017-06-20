@@ -1,4 +1,4 @@
-# minimum_edit_distance
+# minimum-edit-distance-py
 Implementation of the standard Wagner-Fischer edit distance for two strings. It computes the string dissimilarity based on the number of operations required to transform one string into the other.
 
 See
